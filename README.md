@@ -10,7 +10,7 @@
 
 - 👩‍💻 Frontend Developer 
 - 👩‍💻 Problem Solving Mentor
-- 👩‍💻 Check out my <a href="https://www.linkedin.com/in/nour-eltieb-539304264/" > linkedin account </a> 
+
 
 
 ### Connect with Me :
