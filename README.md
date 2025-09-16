@@ -9,8 +9,7 @@
 </p> 
 
 - 👩‍💻 Frontend Developer 
-- 👩‍💻 As a as a software developer, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with JavaScript, Angular, ReactJS, and NodeJS, or anything related to web development.
+- 👩‍💻 Problem Solving Mentor
 - 👩‍💻 Check out my <a href="https://www.linkedin.com/in/nour-eltieb-539304264/" > linkedin account </a> 
 
 
