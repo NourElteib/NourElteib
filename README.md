@@ -9,10 +9,9 @@
 </p> 
 
 
-<p  align="center">
-  ![AI Image](https://cubeinfotech.com/wp-content/uploads/2023/05/Artificial-Intelligence-in-Web-Development.gif)
+<p align="center">
+  <img src="https://cubeinfotech.com/wp-content/uploads/2023/05/Artificial-Intelligence-in-Web-Development.gif" alt="animated" />
 </p>
-
 - 👩‍💻 Frontend Developer 
 - 👩‍💻 Problem Solving Mentor
 
