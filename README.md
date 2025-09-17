@@ -29,4 +29,9 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,cpp,python,mysql,git,github" />
 </p>
+<p align="center">
+<img src="https://i.imgur.com/x1KbuCq.gif" width="500">
+
+<!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk & https://github.com/ironmaniiith/Github-profile-name-writer -->
+<img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-snake-dark.svg" width="100%">
 
