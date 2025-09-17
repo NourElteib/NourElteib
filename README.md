@@ -26,3 +26,6 @@
 </a>
 
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,cpp,python,mysql,git,github" />
+</p>
