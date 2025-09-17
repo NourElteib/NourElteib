@@ -24,7 +24,9 @@
 ### Connect with Me :
 
 <a href="https://www.linkedin.com/in/nour-eltieb-539304264/" target="_blank"><img src="https://img.shields.io/badge/Nour%20Eltieb-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>&nbsp;&nbsp;
-
+<a href="mailto:nourhan24803@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
 ### 🛠 &nbsp;Tech Stack
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
