@@ -24,7 +24,7 @@
 <a href="mailto:nourhan24803@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-
+<hr>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,cpp,python,mysql,git,github" />
